@@ -1354,7 +1354,7 @@ body._lock {
   -webkit-transition: all 0.3s ease-in-out;
   -o-transition: all 0.3s ease-in-out;
   transition: all 0.3s ease-in-out;
-  padding: 16px 0 0 0;
+  padding: 17px 0 0 0;
 }
 .card-slider__title {
   text-align: center;
