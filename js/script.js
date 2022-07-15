@@ -181,13 +181,13 @@ let cardSlider = new Swiper('.card-slider', {
 			slidesPerView: 2,
 			spaceBetween: 20
 		},
-		900: {
+		1000: {
 			slidesPerView: 3,
 			spaceBetween: 20
 		},
-		992: {
-			slidesPerView: 3,
-			spaceBetween: 30
+		1100: {
+		slidesPerView: 3,
+		spaceBetween: 30,
 		},
 	},
 	autoplay: {
