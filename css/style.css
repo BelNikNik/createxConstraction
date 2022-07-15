@@ -2081,6 +2081,7 @@ body._lock {
   font-size: 14px;
   line-height: 150%;
   color: #424551;
+  cursor: pointer;
 }
 .form-details__check + label::before {
   content: "";
